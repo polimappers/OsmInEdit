@@ -1,6 +1,6 @@
 # OsmInEdit
 
-The fork of OSMInEdit by **PoliMappers**
+The fork of OSMInEdit by **PoliMappers**.
 
 OsmInEdit is web tool to allow easy editing of OpenStreetMap indoor-related data.
 
