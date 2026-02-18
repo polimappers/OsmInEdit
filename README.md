@@ -1,5 +1,7 @@
 # OsmInEdit
 
+The fork of OSMInEdit by **PoliMappers**
+
 OsmInEdit is web tool to allow easy editing of OpenStreetMap indoor-related data.
 
 You can use it at [osminedit.pavie.info](https://osminedit.pavie.info/) (or [here for under development version](https://osminedit.pavie.info/dev/)).
