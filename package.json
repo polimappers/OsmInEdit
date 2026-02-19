@@ -58,7 +58,7 @@
     "file-saver": "^2.0.2",
     "fuse.js": "^3.4.5",
     "geojson-validation": "^0.2.1",
-    "gh-pages": "^6.0.0",
+    "gh-pages": "^1.0.0",
     "leaflet": "^1.5.1",
     "leaflet-distortableimage": "^0.6.7",
     "leaflet-draw": "^1.0.4",
