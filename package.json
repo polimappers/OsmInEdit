@@ -88,7 +88,7 @@
     "react-scripts": "2.1.5",
     "react-three-state-checkbox": "^1.2.2",
     "xml2js": "^0.6.2",
-    "jquery": "^1.9.1"
+    "jquery": "^3.7.1"
   },
   "devDependencies": {
     "assert": "^1.5.0",
