@@ -77,6 +77,13 @@
 			<check key="automatic_door" text="Automatic door" fr.text="Porte automatique" it.text="Porta automatica" de.text="Automatiktür"/>
 			<reference ref="wheelchair"/>
 		</item>
+		<item name="Window" fr.name="Fenêtre" it.name="Finestra" de.name="Fenster" type="node" indoor_structure="only" icon="img/icons/window.png" >
+			<key key="window" value="yes" match="key"/>
+			<combo key="window" text="Type" values="skylight,no,yes" use_last_as_default="force" fr.text="Type" it.text="Tipo" de.text="Typ" />
+			<text key="width" text="Width (meters)" fr.text="Largeur (mètres)" it.text="Larghezza (metri)" de.text="Breite (in Metern)" />
+			<text key="height" text="Height (meters)" fr.text="Hauteur (mètres)" it.text="Altezza (metri)" de.text="Höhe (Meter)" />
+			<text key="breast" text="Breast height (meters)" fr.text="Hauteur du rebord (mètres)" it.text="Altezza del petto (metri)" de.text="Brüstungshöhe (Meter)" />
+		</item>
 		<item name="Corridor" fr.name="Couloir" type="closedway" preset_name_label="true" indoor_structure="only" icon="img/icons/indoor_corridor.png" it.name="Corridoio" de.name="Gang">
 			<link href="https://wiki.openstreetmap.org/wiki/Simple_Indoor_Tagging"/>
 			<label text="Unwalled connecting passage" fr.text="Passage sans murs" it.text="Passaggio di collegamento non protetto" de.text="Verbindender Durchgang, standardmäßig ohne Wände"/>
